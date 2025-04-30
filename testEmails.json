@@ -1,0 +1,551 @@
+{
+  "value": [
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAADFD\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFZQAAAA==",
+      "createdDateTime": "2025-04-16T07:04:21Z",
+      "lastModifiedDateTime": "2025-04-16T08:40:13Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAADFD",
+      "categories": [],
+      "receivedDateTime": "2025-04-16T07:04:21Z",
+      "sentDateTime": "2025-04-16T07:04:15Z",
+      "hasAttachments": false,
+      "internetMessageId": "<287VW482XPU4.XD80082WH0UT2@sn1pepf0003b6eb>",
+      "subject": "Microsoft account security info verification",
+      "bodyPreview": "Microsoft account\r\nThanks for verifying your security info\r\nRecently, you verified the security info on the Microsoft account te**2@outlook.com. This was a periodic security check which only happens if you haven't used a security code recently. You won't ",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEACLaVKOxC4uAEqKNrygakBFgg==",
+      "conversationIndex": "AQHbrp3Hi2lSjsQuLkqKNrygakBFgg==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFZQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html dir=\"ltr\"><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\">\r\n<!--\r\n-->\r\n</style></head><body><table dir=\"ltr\"><tbody><tr><td id=\"i1\" style=\"padding:0; font-family:'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:17px; color:#707070\">Microsoft account</td></tr><tr><td id=\"i2\" style=\"padding:0; font-family:'Segoe UI Light','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:41px; color:#2672ec\">Thanks for verifying your security info</td></tr><tr><td id=\"i3\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">Recently, you verified the security info on the Microsoft account <a dir=\"ltr\" id=\"iAccount\" class=\"link\" href=\"mailto:te**2@outlook.com\" style=\"color:#2672ec; text-decoration:none\">te**2@outlook.com</a>. This was a periodic security check which only happens if you haven't used a security code recently. You won't need to provide a code every time you sign in.</td></tr><tr><td id=\"i4\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">It's important to keep the security info associated with your account correct and up-to-date. We'll never use this info to spam you or for any marketing purposes — it's only to verify your identity if there's ever a problem with your account.</td></tr><tr><td id=\"i5\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">To learn more or contact support, <a id=\"iLink1\" class=\"link\" href=\"http://go.microsoft.com/fwlink/?LinkID=281822\" style=\"color:#2672ec; text-decoration:none\">click here</a>.</td></tr><tr><td id=\"i6\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">To opt out or change where you receive security notifications, <a id=\"iLink2\" class=\"link\" href=\"https://account.live.com/SecurityNotifications/Update\" style=\"color:#2672ec; text-decoration:none\">click here</a>.</td></tr><tr><td id=\"i7\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">Thanks,</td></tr><tr><td id=\"i8\" style=\"padding:0; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">The Microsoft account team</td></tr></tbody></table><div lang=\"en\" style=\"margin-top:20px; margin-bottom:10px\"><a class=\"link\" href=\"https://go.microsoft.com/fwlink/?LinkId=521839\">Privacy Statement</a><div style=\"margin-top:10px\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052</div></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Microsoft account team",
+          "address": "account-security-noreply@accountprotection.microsoft.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Microsoft account team",
+          "address": "account-security-noreply@accountprotection.microsoft.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "test.acc.2@outlook.com",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAC2e\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFZAAAAA==",
+      "createdDateTime": "2025-04-16T07:04:20Z",
+      "lastModifiedDateTime": "2025-04-16T07:04:23Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAC2e",
+      "categories": [],
+      "receivedDateTime": "2025-04-16T07:04:20Z",
+      "sentDateTime": "2025-04-16T07:04:15Z",
+      "hasAttachments": false,
+      "internetMessageId": "<F6V2V482XPU4.F7NPLO9G6G3F3@sn1pepf0003b6ec>",
+      "subject": "Microsoft account security info was added",
+      "bodyPreview": "Microsoft account\r\nSecurity info was added\r\nThe following security info was recently added to the Microsoft account te**2@outlook.com:\r\n\r\n  *   919326390669\r\n\r\nIf this was you, then you can safely ignore this email.\r\nIf this wasn't you, a malicious user h",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEAADCFjfDQVKTL90hBPgNNKI",
+      "conversationIndex": "AQHbrp3GAwhY3w0FSky/dIQT4DTSiA==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFZAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html dir=\"ltr\"><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\">\r\n<!--\r\n-->\r\n</style></head><body><table dir=\"ltr\"><tbody><tr><td id=\"i1\" style=\"padding:0; font-family:'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:17px; color:#707070\">Microsoft account</td></tr><tr><td id=\"i2\" style=\"padding:0; font-family:'Segoe UI Light','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:41px; color:#2672ec\">Security info was added</td></tr><tr><td id=\"i3\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">The following security info was recently added to the Microsoft account <a dir=\"ltr\" id=\"iAccount\" class=\"link\" href=\"mailto:te**2@outlook.com\" style=\"color:#2672ec; text-decoration:none\">te**2@outlook.com</a>:</td></tr><tr><td id=\"i4\" style=\"padding:0; padding-top:6px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\"><ul><li>919326390669</li></ul></td></tr><tr><td id=\"i5\" style=\"padding:0; padding-top:6px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">If this was you, then you can safely ignore this email.</td></tr><tr><td id=\"i6\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">If this wasn't you, a malicious user has access to your account. Please review your recent activity and we'll help you secure your account.</td></tr><tr><td style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\"><table border=\"0\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"#2672ec\" style=\"background-color:#2672ec; padding-top:5px; padding-right:20px; padding-bottom:5px; padding-left:20px; min-width:50px\"><a id=\"i7\" href=\"https://account.microsoft.com/activity\" style=\"font-family:'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:14px; text-align:center; text-decoration:none; font-weight:600; letter-spacing:0.02em; color:#fff\">Review recent activity</a></td></tr></tbody></table></td></tr><tr><td id=\"i8\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">To opt out or change where you receive security notifications, <a id=\"iLink3\" class=\"link\" href=\"https://account.live.com/SecurityNotifications/Update\" style=\"color:#2672ec; text-decoration:none\">click here</a>.</td></tr><tr><td id=\"i9\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">Thanks,</td></tr><tr><td id=\"i10\" style=\"padding:0; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">The Microsoft account team</td></tr></tbody></table><div lang=\"en\" style=\"margin-top:20px; margin-bottom:10px\"><a class=\"link\" href=\"https://go.microsoft.com/fwlink/?LinkId=521839\">Privacy Statement</a><div style=\"margin-top:10px\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052</div></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Microsoft account team",
+          "address": "account-security-noreply@accountprotection.microsoft.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Microsoft account team",
+          "address": "account-security-noreply@accountprotection.microsoft.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "test.acc.2@outlook.com",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAACmF\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFYgAAAA==",
+      "createdDateTime": "2025-04-16T06:02:08Z",
+      "lastModifiedDateTime": "2025-04-16T06:02:27Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAACmF",
+      "categories": [],
+      "receivedDateTime": "2025-04-16T06:02:08Z",
+      "sentDateTime": "2025-04-16T06:01:57Z",
+      "hasAttachments": true,
+      "internetMessageId": "<PN2P287MB151883AF7DC11E864B858AD19FBD2@PN2P287MB1518.INDP287.PROD.OUTLOOK.COM>",
+      "subject": "TEST Mail",
+      "bodyPreview": "<b>Hello World</b>",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEADGhq8Scow1QakxtysEy3H1",
+      "conversationIndex": "AQHbrpRpxoavEnKMNUGpMbcrBMtx9Q==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFYgAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">&lt;b&gt;Hello World&lt;/b&gt;<br><br><br></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Kirtish Patil",
+          "address": "kirtish.patil@csinfocomm.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Kirtish Patil",
+          "address": "kirtish.patil@csinfocomm.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "test.acc.2@outlook.com",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [
+        {
+          "emailAddress": {
+            "name": "Sahil Rajesh Pawar",
+            "address": "sahil.pawar@csinfocomm.com"
+          }
+        }
+      ],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"FwAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAACl3\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFYQAAAA==",
+      "createdDateTime": "2025-04-16T05:52:59Z",
+      "lastModifiedDateTime": "2025-04-16T05:53:00Z",
+      "changeKey": "FwAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAACl3",
+      "categories": [],
+      "receivedDateTime": "2025-04-16T05:52:59Z",
+      "sentDateTime": "2025-04-16T05:52:53Z",
+      "hasAttachments": false,
+      "internetMessageId": "<c1fe9763-17ae-472d-a674-cd1f7aebb32a@AS8PR04MB7750.eurprd04.prod.outlook.com>",
+      "subject": "Undeliverable: Meet for lunch?",
+      "bodyPreview": "Delivery has failed to these recipients or groups:\r\n\r\ngarthf@contoso.com (garthf@contoso.com)\r\nYour message couldn't be delivered. Despite repeated attempts to contact the recipient's email system it didn't respond.\r\n\r\nContact the recipient by some other ",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEAA4cU-s5_45Soz9H2qjXJkx",
+      "conversationIndex": "AQHbrcqgOHFP7OfuOUqM/R9qo1yZMbOlzAGN",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFYQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><p><b><font color=\"#000066\" size=\"3\" face=\"Arial\">Delivery has failed to these recipients or groups:</font></b></p><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><p><a href=\"mailto:garthf@contoso.com\">garthf@contoso.com (garthf@contoso.com)</a><br></font><font color=\"#000000\" size=\"3\" face=\"Arial\">Your message couldn't be delivered. Despite repeated attempts to contact the recipient's email system it didn't respond.</p><p>Contact the recipient by some other means (by phone, for example) and ask them to tell their email admin that it appears that their email system isn't accepting connection requests from your email system. Give them the error details shown below. It's likely that the recipient's email admin is the only one who can fix this problem.</p><p>For more information and tips to fix this issue see this article: https://go.microsoft.com/fwlink/?LinkId=389361.</p><br></font><font color=\"#000000\" size=\"2\" face=\"Tahoma\"><br><p></p></font><br><br><br><br><br><br><font color=\"#808080\" size=\"2\" face=\"Tahoma\"><p><b>Diagnostic information for administrators:</b></p><p>Generating server: AS8PR04MB7750.eurprd04.prod.outlook.com<br>Total retry attempts: 4</p><p>garthf@contoso.com<br>Remote server returned '550 5.4.300 Message expired -&gt; 451 4.4.4 Mail received as unauthenticated, incoming to a recipient domain configured in a hosted tenant which has no mail-enabled subscriptions. ATTR5 [CH1PEPF0000AD78.namprd04.prod.outlook.com 2025-04-16T05:48:00.936Z 08DD7C8F7904A439]'<br></p><p>Original message headers:</p><pre>Received: from DBBPR04MB7609.eurprd04.prod.outlook.com (2603:10a6:10:1f7::17)\r\n by AS8PR04MB7750.eurprd04.prod.outlook.com (2603:10a6:20b:2aa::5) with\r\n Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8632.36; Wed, 16 Apr\r\n 2025 04:14:56 +0000\r\nReceived: from AS8PR04MB8785.eurprd04.prod.outlook.com (2603:10a6:20b:42c::6)\r\n by DBBPR04MB7609.eurprd04.prod.outlook.com (2603:10a6:10:1f7::17) with\r\n Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8632.36; Tue, 15 Apr\r\n 2025 17:11:06 +0000\r\nReceived: from AS8PR04MB8996.eurprd04.prod.outlook.com (2603:10a6:20b:42f::22)\r\n by AS8PR04MB8785.eurprd04.prod.outlook.com (2603:10a6:20b:42c::6) with\r\n Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8632.33; Tue, 15 Apr\r\n 2025 17:00:17 +0000\r\nARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;\r\n b=QMo/020v1XaUBpYR8W1iFCyKS2flvaQDbcxVFm7YTiRbioJTCZx/xq25UVzf9GGhulQtF8DlAX0sL9gJRs4FnrrFHct9z6EnWdCkFN/o6t6qCZnVTZhLRpixqiGgZ7v4Hy6z2L2vCLeWwhrl9JJs7SBxVTfpBbadDm5HclSRUdQmGqgGwvnxpxImRibI8yjg1K6AUd6vQAvrLWZnug1ScKA0VKxjbOvVdVyMrAYUu+5NP6UFGKpboob3vyqXlW6UEL/QXBgsWaUNw6DgQOgNt4B+MgRke0dZxKEn99kVALH/RHWGHQT4frICpxd0/HQhcfv72qx0LwcbtdkaU1iKsA==\r\nARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;\r\n s=arcselector10001;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;\r\n bh=iQV7w+MyaBP1xQlHjoTg1h92dNA8BZsGhvVTt9JjzlM=;\r\n b=iLe9/1F/xzHblV4trz6rvtYBO4K/8WnkLnUoE9IugfF1pptZDkSQE3Gkw3mtNz1anMajUD6sDroEkCxhx97nUX0WNXv8TYkq7MaM16uZC6JvXPBpUBtji3aV9x6ZOU+9ws1X295+0SYjfRdsq2Ni5I4eDB3vru2rOg2+0zrC0cQJLRrukEQ5JQWkvtT8YS7xMO/v93Tms86nsah6DlOyfjvUBKqhAzqQzx/p1Dn6nKdE9AYX1IIkddJfOhPLn8/f2cDF0O88mRhpbvi1gaq5hcpK/z2YBWVf1rm5gp6jzFUzKmqsqPcLUmkzGkhFsC3x64BOUU5gVxhL6eL59U1YsA==\r\nARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;\r\n dkim=none; arc=none\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;\r\n s=selector1;\r\n h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;\r\n bh=iQV7w+MyaBP1xQlHjoTg1h92dNA8BZsGhvVTt9JjzlM=;\r\n b=Y1ZhZDEB9DkBY/iNab9yscQQCMqVyExowkwFgBGvjMxqJWdok57jtX7ypNq47kwPHMzbCr5ivAWYYbNi9zEBA2Jm3LT5JahH4aTs1sQin4pZHm74ombZ9ZpL0RZwNnMJmOmLgKLmrEuzmIEbuKjZCi9C7KIInEHdVKjpDtsoWwdEayDteuT1o6LEuf99qurwBZnl/Swz9aWiCjvjOBP2eqdv7cEJaXDkilo1X6KDsLvysWQuGcSVk1EyRJvaKA5/qX98C79PDoIIiwVZnshlrEn7fOrDoDnEt2EJH+SflssEXlCc4lVH+YdQ3ppuwQ47Y4iix6AzP6jWlEk0+dlOXA==\r\nReceived: from DB9PR04MB8073.eurprd04.prod.outlook.com (2603:10a6:10:24d::6)\r\n by AS8PR04MB8996.eurprd04.prod.outlook.com (2603:10a6:20b:42f::22) with\r\n Microsoft SMTP Server (version=TLS1_2,\r\n cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8632.35; Tue, 15 Apr\r\n 2025 05:52:52 +0000\r\nReceived: from DB9PR04MB8073.eurprd04.prod.outlook.com\r\n ([fe80::b8ca:1fb8:86ee:b325]) by DB9PR04MB8073.eurprd04.prod.outlook.com\r\n ([fe80::b8ca:1fb8:86ee:b325%7]) with mapi id 15.20.8632.030; Tue, 15 Apr 2025\r\n 05:52:52 +0000\r\nFrom: CsInfocomm Test &lt;test.acc.2@outlook.com&gt;\r\nTo: &quot;garthf@contoso.com&quot; &lt;garthf@contoso.com&gt;\r\nSubject: Meet for lunch?\r\nThread-Topic: Meet for lunch?\r\nThread-Index: AQHbrcqgOHFP7OfuOUqM/R9qo1yZMQ==\r\nDate: Tue, 15 Apr 2025 05:52:52 +0000\r\nMessage-ID: &lt;DB9PR04MB80735BA4D645773447E0FA7F99B22@DB9PR04MB8073.eurprd04.prod.outlook.com&gt;\r\nAccept-Language: en-US\r\nContent-Language: en-US\r\nX-MS-Has-Attach:\r\nX-MS-TNEF-Correlator:\r\nx-ms-publictraffictype: Email\r\nx-ms-traffictypediagnostic:\r\n\tDB9PR04MB8073:EE_|AS8PR04MB8996:EE_|AS8PR04MB8785:EE_|DBBPR04MB7609:EE_|AS8PR04MB7750:EE_\r\nx-ms-office365-filtering-correlation-id: 1df2fc5f-50a1-4edf-3f5a-08dd7be1c30d\r\nx-microsoft-antispam: BCL:0;ARA:14566002|461199028|8062599003|8060799006|38102599003|19110799003|8022599003|15080799006|7092599003|440099028|3412199025|102099032;\r\nx-microsoft-antispam-message-info: =?us-ascii?Q?R80uhuq8JSaj2VBJNkEQQLNj9tsEcRm9c5twJxe92/P0NQpBU6J2Q/06sbwr?=\r\n =?us-ascii?Q?RrnYeQDl8KsRZQv79UhcNoZbrNjGDxfZ324jM983VSERVMxn/jYzBnOEUrFc?=\r\n =?us-ascii?Q?WrXCwxDvDZt8ySXjyc88gYLISVQg1iC2GC/vxcbEajGBG5GRWjeYwTxhFulT?=\r\n =?us-ascii?Q?nbRUeoZh7ecd+XJYialUBXzAe75EFurL7GqztBq15o5ppoN9T+BREVYqoJHG?=\r\n =?us-ascii?Q?wi4ENBmJpo765u979h3nI72/Fv4P/PXUzBqKoWBUB+8mIi0jIqk8Oj+kKkhg?=\r\n =?us-ascii?Q?ifCYN7p5hmhhTyNWGELh55pCdZB/SBHsQuKT5ir8lkaLLLDHNGq/3j7UrP/D?=\r\n =?us-ascii?Q?zH8htclidI2/cyScxvPcogmwRU2pnFNnv42ydJ9B6BwJlX1ipt8U7OKKS5Dp?=\r\n =?us-ascii?Q?NC7sSFUhjXuis4Kq2azWMDNctK+99tBu/3rs57a7y4ump+DufqUGQgTKrqlb?=\r\n =?us-ascii?Q?78a+YZ9IQaAY+vFUv03fmcdVKxG/sV+O4AFT0NV7EhTP88TrFSxnQ8OEjBAF?=\r\n =?us-ascii?Q?x4UdJxkAHPhW+UU+kHwnLXfaYKJMlukmN5QFbk4tO6SYQGaU222apHgYOSog?=\r\n =?us-ascii?Q?fazsyxi/TW2gQnmbLVaiPffmrGifyj6JGqXN6FpFfVdQPXsGdpc7Z5zt48PV?=\r\n =?us-ascii?Q?87RvPdElNBBp2NRTX9W8YDbR41BSR1GQP/47b6grVWPu50cquf7eoe9Cj9+g?=\r\n =?us-ascii?Q?eXRohMvWASqQWqv77z2S01OqdOtvVFYlkT4Tjrst6mdZHGeWNd6ESTLRHOB1?=\r\n =?us-ascii?Q?TPM1E9D58Ky8Z3U3T04nKeRbc5HWO8hYdmwTxiFmRPPtj1G6cE/yWr/2YJPD?=\r\n =?us-ascii?Q?xtHAkazzplQ2l3aFqoY3e5k8RSxoo/mAX2GqEMjZWoBgQtSy/4BMpNYy+1Cz?=\r\n =?us-ascii?Q?73QHHglrLBAN1eAv1L7yIj4CY7KILSGeN3sFEH1DpYcW/6hH6x68ur8rb+fc?=\r\n =?us-ascii?Q?QpRZaF1dzz01rI0HcuISY0A4lqwxm9TdcDbe9Sy6tQ1QqQjoWsgE2JyY5sfw?=\r\n =?us-ascii?Q?8i414Ej02TM69Kq+u9O6kgWU6mL/72fYAF3hdYk7VEDIdITlqobhYk5/Blxw?=\r\n =?us-ascii?Q?fGvFkfpZ9vwgywubSBaeOtCrxn3ZzEQxSwq7mt3WPfCa3os9ZIbsvz01ONsb?=\r\n =?us-ascii?Q?lVAMFupXQEoBhlo8Xe1g911Qw3d3ImDFYDbOBlZwPHiflB1c0vmb5gk=3D?=\r\nx-ms-exchange-antispam-messagedata-chunkcount: 1\r\nx-ms-exchange-antispam-messagedata-0: =?us-ascii?Q?nK7i2nfe9/vN9ChDb/49HwQw9UHzI7zZ0O9ZgB+WrxT9hE6B4DRYQG2EecUM?=\r\n =?us-ascii?Q?UVULy0AB9FxUR1plpCPiT9i02lTMrnfV3GEwZbMkovoCNKKLOFeBq+vkoz5p?=\r\n =?us-ascii?Q?9OohLRx4Q3uyS+tJ3Ef4W8U6bzfvju2gpXwymehxOTsTBkSVryoIHDjBNwfC?=\r\n =?us-ascii?Q?PbEf4SVzpOQZ89pUMPikdPmJ3A1YmsCi+B+cIVoBGowcfWlggv2ve8ComtZN?=\r\n =?us-ascii?Q?Dpn4c5B2Neu3nXruhGXY/WkpHFesIH1WmOIojyEyN1L4SAVYaxMO7UzduGCy?=\r\n =?us-ascii?Q?XVi4lY0NjzMo6JczHvukHpvHT2spD8B0Z6svCRG+vFSkx8CjGs8Iq/yFfUhZ?=\r\n =?us-ascii?Q?5weYNhNh3A8KLPArvqOoV35nLuk0hsJtpbzloXBC5dV/isG3uFKaMLPd3Iw/?=\r\n =?us-ascii?Q?+JUwEVjrty8j9KgMOpjYKofz2ryRr8qsVF1XKTyhUekvH2VZrgj2U1CF84th?=\r\n =?us-ascii?Q?yTCGPrjWk9qs8duUHDF+j+pdq8UW6V55Y/rmMiDZmBc9hmS8zmBQIHb/F5m1?=\r\n =?us-ascii?Q?I9XqHK3l07Hbn3MgIZYWdPoxdkOgqwpORti43UXnN/NRAmzMkBbjkZ/WOTi3?=\r\n =?us-ascii?Q?0ayVclCKMsM8jn/0QOvCfctzVeMSVBKdEYVPEFnXsUmvqlG33OUZy+Q4CMlj?=\r\n =?us-ascii?Q?0iWSn5gIYhZzYyOP67YSqgmES5YyHsTZc9decS85OlLHNNyetRrLq+kCdJN4?=\r\n =?us-ascii?Q?S70EDNpbtUOAF0nh05QvNkmVOtIz6iB14+AkF4WwVVqXVUwqRRKHvAKe7zaX?=\r\n =?us-ascii?Q?hwHiT1FjxxXCatp1SuqFSnEECbtP8WLLNAatlL3bSzBSptc+sz4C99jji+6l?=\r\n =?us-ascii?Q?ts0e8pHBKmku9Me8A0aWpzX4VZwUjBjyODyB8kuc5AqUvgrfC6UdRtJCkVjI?=\r\n =?us-ascii?Q?2GFEbXsr2ftRsfEoJaFXA/Dw059z681UOxI0D3qTjY09SqN+N7rbp8tEQtln?=\r\n =?us-ascii?Q?kRf76XZR7VuXBwunHyGTL1eiAg3baiARaEqjcPDAk9LINZ/1XnQ9BNQoVeOE?=\r\n =?us-ascii?Q?sHX4UGx11dssZFHlKF91KXXcI+OWn+TGWaT9QHTsf17AKvnneOfA90Cgqru2?=\r\n =?us-ascii?Q?uD+Ky0FuZfWT+Dxknd0h+Ydsw32tKBAtj1MedII7KrGdUUtVW9pHGfFjOCD3?=\r\n =?us-ascii?Q?MtKCHxNbll5fqS4Bfo5fsqX6aGiejuGGpY8QrAdT5cAmEXgyDx/DLiYWvceY?=\r\n =?us-ascii?Q?3Hm/Jaw6ML7n3SxzCfT0M1T3B1arBNm92R4rBWaE9BY+uHjhy+1FHfngR50?=\r\n =?us-ascii?Q?=3D?=\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nMIME-Version: 1.0\r\nX-MS-Exchange-CrossTenant-AuthAs: Internal\r\nX-MS-Exchange-CrossTenant-AuthSource: DB9PR04MB8073.eurprd04.prod.outlook.com\r\nX-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-CrossTenant-Network-Message-Id: 1df2fc5f-50a1-4edf-3f5a-08dd7be1c30d\r\nX-MS-Exchange-CrossTenant-originalarrivaltime: 15 Apr 2025 05:52:52.6680\r\n (UTC)\r\nX-MS-Exchange-CrossTenant-fromentityheader: Hosted\r\nX-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa\r\nX-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000\r\nX-MS-Exchange-Transport-CrossTenantHeadersStamped: AS8PR04MB8996\r\nReturn-Path: test.acc.2@outlook.com\r\nX-OriginatorOrg: outlook.com\r\n</pre></font></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Microsoft Outlook",
+          "address": "MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@sct-15-20-7719-20-msonline-outlook-0a672.templateTenant"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Microsoft Outlook",
+          "address": "MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@sct-15-20-7719-20-msonline-outlook-0a672.templateTenant"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "garthf@contoso.com",
+            "address": "garthf@contoso.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAiM\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFYAAAAA==",
+      "createdDateTime": "2025-04-15T07:02:33Z",
+      "lastModifiedDateTime": "2025-04-15T07:20:40Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAiM",
+      "categories": [],
+      "receivedDateTime": "2025-04-15T07:02:34Z",
+      "sentDateTime": "2025-04-15T07:02:29Z",
+      "hasAttachments": false,
+      "internetMessageId": "<[742036cff1ba4aaa928a9fad5409e123-JFZGS42DN5WW25LONFRWC5DJN5XFA3DBORTG64TNFVIHE33EFVBEYMSQPRHWMZTJMNSVK3TJMZUWKZCQN5ZHIYLMONEW4ZTSMFZXI4TVMN2HK4TFPRHWMZTJMNSUIZLWKRZGC3TTMFRXI2LPNZ6EK6DPKNWXI4A=@microsoft.com]>",
+      "subject": "Welcome to the Microsoft 365 Developer Program - please take the next step!",
+      "bodyPreview": "Microsoft 365 Developer Program | Access your profile\r\n\r\nMicrosoft 365 Developer Program\r\n\r\nWelcome to the Microsoft 365 Developer Program\r\nCongratulations! You have successfully joined the Microsoft 365 Developer Program. If you're a qualified member, yo",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEAA4TSJwMVY0Q5Z2XvwreCXw",
+      "conversationIndex": "AQHbrdRcOE0icDFWNEOWdl78K3gl8A==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFYAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div><style>\r\n<!--\r\nbody\r\n\t{height:100%!important;\r\n\tmargin:0!important;\r\n\tpadding:0!important;\r\n\twidth:100%!important;\r\n\tfont-family:Segoe UI,Helvetica,Arial,sans-serif}\r\n.followus\r\n\t{margin:0px;\r\n\ttext-align:center;\r\n\tline-height:normal;\r\n\ttext-align:left;\r\n\tcolor:black;\r\n\tfont-size:8pt;\r\n\tpadding:0px 40px 0px 40px}\r\n.mainText\r\n\t{padding-top:10px;\r\n\tpadding-left:40px;\r\n\tpadding-right:40px;\r\n\tfont-size:14px}\r\n.mainTextHeader\r\n\t{font-size:28px}\r\n.footer\r\n\t{background:#f0f0f0;\r\n\tborder:0;\r\n\tpadding:10px 0px 10px 20px;\r\n\tmin-height:60px}\r\n.header\r\n\t{background:#0078d4;\r\n\tborder:0;\r\n\tpadding:8px 20px 8px 20px;\r\n\twidth:100%;\r\n\tmin-height:60px;\r\n\tcolor:#ffffff;\r\n\tfont-size:22px;\r\n\tfont-weight:400}\r\n.header-title\r\n\t{color:#ffffff;\r\n\tfont-size:22px}\r\n.microsoft365-blue-background\r\n\t{background:#0078d4}\r\n-->\r\n</style><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\" role=\"presentation\"><tbody><tr><td class=\"microsoft365-blue-background\" valign=\"top\" style=\"vertical-align:top\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td class=\"mobile-side-padding-20 microsoft365-blue-background\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#ffffff; padding-top:10px; padding-left:50px; padding-right:50px; text-align:center; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#ffffff; text-align:center; letter-spacing:-0.01em\">Microsoft 365 Developer Program | <a href=\"https://developer.microsoft.com/en-us/office/profile\" style=\"color:#ffffff; text-decoration:underline\"><strong style=\"font-weight:normal; color:#ffffff; text-decoration:underline\">Access your profile</strong> </a></p></td></tr></tbody></table></td></tr><tr><td align=\"left\" class=\"microsoft365-blue-background\" valign=\"top\" style=\"vertical-align:top\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"left\" class=\"microsoft365-blue-background\" style=\"padding-top:10px; padding-bottom:14px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"left\" class=\"microsoft365-blue-background\" style=\"padding-left:20px\"><img alt=\"Microsoft\" src=\"https://cdn.graph.office.net/prod/media/shared/Microsoft_Logo_White.png?v={1/image}\" width=\"99\" align=\"left\" class=\"mobile-width-85\" style=\"display:block; outline:none; border:none\"></td></tr></tbody></table></td><td valign=\"top\" align=\"right\" class=\"microsoft365-blue-background\" style=\"padding-top:4px; padding-bottom:14px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"right\" class=\"microsoft365-blue-background\" style=\"padding-right:20px\"><div><div class=\"header-title microsoft365-blue-background\" align=\"right\">Microsoft 365 Developer Program</div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div class=\"mainText\"><p class=\"mainTextHeader\">Welcome to the Microsoft 365 Developer Program</p><p class=\"MsoNormal\">Congratulations! You have successfully joined the Microsoft 365 Developer Program. If you're a qualified member, you have the option to set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment.</p><p class=\"MsoNormal\">If you qualify for a Microsoft 365 E5 subscription through the developer program, the option to set up a subscription will be available on your <a href=\"https://developer.microsoft.com/en-us/microsoft-365/profile\">Microsoft 365 Developer Program dashboard</a>.</p><p class=\"MsoNormal\"><i><b>Reminder:</b> The Microsoft 365 E5 subscription is for development purposes only. It can be revoked at any time if it is used for purposes other than development. For more information, review the <a href=\"https://learn.microsoft.com/en-us/office/developer-program/terms-and-conditions?source=transaction-welcome-email\">Microsoft 365 Developer Program Terms and Conditions.</a></i> </p><p>Are you interested in helping to shape the evolution of the program? If so, please take a moment to join the <a href=\"https://aka.ms/JoinM365DevResearch\">Microsoft 365 Developer Program research panel</a>. As a member of our research panel, you'll be invited to share your views on program priorities and give us your feedback on current developer experiences.</p><p class=\"MsoNormal\">Thank you for joining!</p><p class=\"MsoNormal\">The Microsoft 365 Developer Program Team</p></div><div><p class=\"followus\">&nbsp;&nbsp;&nbsp;</p><p class=\"followus\"><span>Follow us on Twitter </span><a href=\"https://twitter.com/Microsoft365Dev\"><span>@Microsoft365Dev</span></a><span> and on </span><span><a href=\"https://www.facebook.com/Microsoft365Dev/\">Facebook</a></span></p><p class=\"followus\">Find reference solutions and code samples on <a href=\"https://github.com/OfficeDev/\">Github</a><span>. Ask questions on <a href=\"https://stackoverflow.com/\">Stack Overflow</a></span>.</p><p class=\"followus\">&nbsp;</p></div><div class=\"footer\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\" role=\"presentation\"><tbody><tr><td bgcolor=\"#f0f0f0\" valign=\"top\" style=\"vertical-align:top; padding-top:10px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td align=\"left\" bgcolor=\"#f0f0f0\" style=\"padding-top:20px; padding-bottom:20px; padding-left:20px\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td align=\"left\" bgcolor=\"#f0f0f0\"><img alt=\"Microsoft\" src=\"https://cdn.graph.office.net/prod/media/shared/microsoft-logo.png\" width=\"99\" style=\"display:block; outline:none; border:none\"></td></tr></tbody></table></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:0px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">This email was sent from an unmonitored mailbox. </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:18px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">You are receiving this email because you have subscribed to Microsoft 365. </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:0px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\"><a target=\"_blank\" href=\"https://go.microsoft.com/fwlink/?LinkId=521839\" style=\"text-decoration:underline\"><strong style=\"font-weight:normal; color:#6b6b6c; text-decoration:underline\">Privacy Statement</strong></a> </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:18px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052 USA </p></td></tr></tbody></table><p>&nbsp;</p></td></tr></tbody></table></div><img src=\"https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACSEEY2CSZ433R4G5VINLRGG6CVXVNA3KZ6OY6WRK7YENRW665BBMUYNCAKG4YJQ7KF2MO3OQWJ52W2SR6YBAXNLR5API6AMD4T2PAUKFC4V3BNNMVKV63GWGTRGWZVKKDWELDDRMWPXDH75ZAGY5EY6BORQ&amp;i=AIAAC6YTD4JUQAX3QCKV3NJAI57DATRDFWCV7MGRR4H2UQCWCQ6SVLW5WKFGKPINE3HDVVZ7BMNRIA2RRC2PYDFFQESHLOETHAO7CFCM2CIXAWF2UQF6JWLYGNEMXT6OTMTR4VJMHMI4TNENWVV6REWQIM2C5ZQR4H3LW5BFDMV53R53TRPMGADHNONRRPJRB35NVDSOYYA7GN23FJBH6MXMETU5GCUWTJX35WISGPSNHHZZMLE7IH2I6UAP2OBNMI3CARCGLEGEIGLPA5EUWTHL2UBPXYY\" width=\"1\" height=\"1\" tabindex=\"-1\" aria-hidden=\"true\" alt=\"\"></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Microsoft 365 Developer Program",
+          "address": "m365dev@microsoft.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Microsoft 365 Developer Program",
+          "address": "m365dev@microsoft.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "test.acc.2@outlook.com",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAiK\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFXwAAAA==",
+      "createdDateTime": "2025-04-15T06:54:22Z",
+      "lastModifiedDateTime": "2025-04-15T07:20:40Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAiK",
+      "categories": [],
+      "receivedDateTime": "2025-04-15T06:54:23Z",
+      "sentDateTime": "2025-04-15T06:54:09Z",
+      "hasAttachments": false,
+      "internetMessageId": "<[7b1b35e295244e7292b8ca1cf85293e4-JFZGS42DN5WW25LONFRWC5DJN5XFA3DBORTG64TNFVIHE33EFVGVOMKQPRHWMZTJMNSVK3TJMZUWKZCQN5ZHIYLMONEW4ZTSMFZXI4TVMN2HK4TFPRHWMZTJMNSUIZLWKRZGC3TTMFRXI2LPNZ6EK6DPKNWXI4A=@microsoft.com]>",
+      "subject": "Welcome to the Microsoft 365 Developer Program - please take the next step!",
+      "bodyPreview": "Microsoft 365 Developer Program | Access your profile\r\n\r\nMicrosoft 365 Developer Program\r\n\r\nWelcome to the Microsoft 365 Developer Program\r\nCongratulations! You have successfully joined the Microsoft 365 Developer Program. If you're a qualified member, yo",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEABaIZaeqa9ITLhssbWKw9U0",
+      "conversationIndex": "AQHbrdM3WiGWnqmvSEy4bLG1isPVNA==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFXwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div><style>\r\n<!--\r\nbody\r\n\t{height:100%!important;\r\n\tmargin:0!important;\r\n\tpadding:0!important;\r\n\twidth:100%!important;\r\n\tfont-family:Segoe UI,Helvetica,Arial,sans-serif}\r\n.followus\r\n\t{margin:0px;\r\n\ttext-align:center;\r\n\tline-height:normal;\r\n\ttext-align:left;\r\n\tcolor:black;\r\n\tfont-size:8pt;\r\n\tpadding:0px 40px 0px 40px}\r\n.mainText\r\n\t{padding-top:10px;\r\n\tpadding-left:40px;\r\n\tpadding-right:40px;\r\n\tfont-size:14px}\r\n.mainTextHeader\r\n\t{font-size:28px}\r\n.footer\r\n\t{background:#f0f0f0;\r\n\tborder:0;\r\n\tpadding:10px 0px 10px 20px;\r\n\tmin-height:60px}\r\n.header\r\n\t{background:#0078d4;\r\n\tborder:0;\r\n\tpadding:8px 20px 8px 20px;\r\n\twidth:100%;\r\n\tmin-height:60px;\r\n\tcolor:#ffffff;\r\n\tfont-size:22px;\r\n\tfont-weight:400}\r\n.header-title\r\n\t{color:#ffffff;\r\n\tfont-size:22px}\r\n.microsoft365-blue-background\r\n\t{background:#0078d4}\r\n-->\r\n</style><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\" role=\"presentation\"><tbody><tr><td class=\"microsoft365-blue-background\" valign=\"top\" style=\"vertical-align:top\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td class=\"mobile-side-padding-20 microsoft365-blue-background\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#ffffff; padding-top:10px; padding-left:50px; padding-right:50px; text-align:center; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#ffffff; text-align:center; letter-spacing:-0.01em\">Microsoft 365 Developer Program | <a href=\"https://developer.microsoft.com/en-us/office/profile\" style=\"color:#ffffff; text-decoration:underline\"><strong style=\"font-weight:normal; color:#ffffff; text-decoration:underline\">Access your profile</strong> </a></p></td></tr></tbody></table></td></tr><tr><td align=\"left\" class=\"microsoft365-blue-background\" valign=\"top\" style=\"vertical-align:top\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"left\" class=\"microsoft365-blue-background\" style=\"padding-top:10px; padding-bottom:14px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"left\" class=\"microsoft365-blue-background\" style=\"padding-left:20px\"><img alt=\"Microsoft\" src=\"https://cdn.graph.office.net/prod/media/shared/Microsoft_Logo_White.png?v={1/image}\" width=\"99\" align=\"left\" class=\"mobile-width-85\" style=\"display:block; outline:none; border:none\"></td></tr></tbody></table></td><td valign=\"top\" align=\"right\" class=\"microsoft365-blue-background\" style=\"padding-top:4px; padding-bottom:14px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"right\" class=\"microsoft365-blue-background\" style=\"padding-right:20px\"><div><div class=\"header-title microsoft365-blue-background\" align=\"right\">Microsoft 365 Developer Program</div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div class=\"mainText\"><p class=\"mainTextHeader\">Welcome to the Microsoft 365 Developer Program</p><p class=\"MsoNormal\">Congratulations! You have successfully joined the Microsoft 365 Developer Program. If you're a qualified member, you have the option to set up a Microsoft 365 E5 developer subscription for use in building solutions independent of your production environment.</p><p class=\"MsoNormal\">If you qualify for a Microsoft 365 E5 subscription through the developer program, the option to set up a subscription will be available on your <a href=\"https://developer.microsoft.com/en-us/microsoft-365/profile\">Microsoft 365 Developer Program dashboard</a>.</p><p class=\"MsoNormal\"><i><b>Reminder:</b> The Microsoft 365 E5 subscription is for development purposes only. It can be revoked at any time if it is used for purposes other than development. For more information, review the <a href=\"https://learn.microsoft.com/en-us/office/developer-program/terms-and-conditions?source=transaction-welcome-email\">Microsoft 365 Developer Program Terms and Conditions.</a></i> </p><p>Are you interested in helping to shape the evolution of the program? If so, please take a moment to join the <a href=\"https://aka.ms/JoinM365DevResearch\">Microsoft 365 Developer Program research panel</a>. As a member of our research panel, you'll be invited to share your views on program priorities and give us your feedback on current developer experiences.</p><p class=\"MsoNormal\">Thank you for joining!</p><p class=\"MsoNormal\">The Microsoft 365 Developer Program Team</p></div><div><p class=\"followus\">&nbsp;&nbsp;&nbsp;</p><p class=\"followus\"><span>Follow us on Twitter </span><a href=\"https://twitter.com/Microsoft365Dev\"><span>@Microsoft365Dev</span></a><span> and on </span><span><a href=\"https://www.facebook.com/Microsoft365Dev/\">Facebook</a></span></p><p class=\"followus\">Find reference solutions and code samples on <a href=\"https://github.com/OfficeDev/\">Github</a><span>. Ask questions on <a href=\"https://stackoverflow.com/\">Stack Overflow</a></span>.</p><p class=\"followus\">&nbsp;</p></div><div class=\"footer\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\" role=\"presentation\"><tbody><tr><td bgcolor=\"#f0f0f0\" valign=\"top\" style=\"vertical-align:top; padding-top:10px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td align=\"left\" bgcolor=\"#f0f0f0\" style=\"padding-top:20px; padding-bottom:20px; padding-left:20px\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td align=\"left\" bgcolor=\"#f0f0f0\"><img alt=\"Microsoft\" src=\"https://cdn.graph.office.net/prod/media/shared/microsoft-logo.png\" width=\"99\" style=\"display:block; outline:none; border:none\"></td></tr></tbody></table></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:0px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">This email was sent from an unmonitored mailbox. </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:18px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">You are receiving this email because you have subscribed to Microsoft 365. </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:0px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\"><a target=\"_blank\" href=\"https://go.microsoft.com/fwlink/?LinkId=521839\" style=\"text-decoration:underline\"><strong style=\"font-weight:normal; color:#6b6b6c; text-decoration:underline\">Privacy Statement</strong></a> </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:18px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052 USA </p></td></tr></tbody></table><p>&nbsp;</p></td></tr></tbody></table></div><img src=\"https://mucp.api.account.microsoft.com/m/v2/v?d=AIAADHHIP3XZAOF2B5R3XGGBA2L7CFUVDB7CCYJVP4CWPAIH5G7FN2NDZU6FHZEBST5QAHK5C45PTC2S4EULCGTMCIUEIVCCVITPPOY27IG3T6FKVGWKQ56FVORSK5R2A7UMEMBGUOAA34FYTTQME2BAZO6WRFY&amp;i=AIAADZBEDVNVOWJDEGHRS24SNRGBTOTNRCUJSTADJSBLNAAPEM6BTRCAQN2IV4PZBZ6BOY2HWALBTKNGYGVVFKHBNUTLM5K77ZW42QM6YATWIW4LLFAFK26255KYHOP2BC6LKLQG7FHLBKDMNYZAQ5WBQUOA5LZTMZGZMEFF4ZHBJG26H3RGSXK3YFQROOJQNGXMNA4RNRAVOQILV3SN5PYGSWZV27NUNDS2UYHGB5BGYBHBVZ2LY73DIAI3SSC3S4VM3MKKKZEMAQTSHOGUL7T5PHCCYSQ\" width=\"1\" height=\"1\" tabindex=\"-1\" aria-hidden=\"true\" alt=\"\"></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Microsoft 365 Developer Program",
+          "address": "m365dev@microsoft.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Microsoft 365 Developer Program",
+          "address": "m365dev@microsoft.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "test.acc.2@outlook.com",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAiI\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFXgAAAA==",
+      "createdDateTime": "2025-04-15T06:29:27Z",
+      "lastModifiedDateTime": "2025-04-15T07:20:40Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAiI",
+      "categories": [],
+      "receivedDateTime": "2025-04-15T06:29:27Z",
+      "sentDateTime": "2025-04-15T06:29:22Z",
+      "hasAttachments": false,
+      "internetMessageId": "<[188e57dc843447958cdf02150ded56e4-JFZGS42DN5WW25LONFRWC5DJN5XFA3DBORTG64TNFVIHE33EFVGVOMKQPRHWMZTJMNSVK3TJMZUWKZCQN5ZHIYLMONEW4ZTSMFZXI4TVMN2HK4TFPRHWMZTJMNSUIZLWKRZGC3TTMFRXI2LPNZ6EK6DPKNWXI4A=@microsoft.com]>",
+      "subject": "Important information: You have deleted your Microsoft 365 Developer Program membership",
+      "bodyPreview": "Microsoft 365 Developer Program | Access your profile\r\n\r\nMicrosoft 365 Developer Program\r\nWe received your request to delete your Microsoft 365 Developer Program profile and membership. This message confirms that we have deleted your information.\r\nMembers",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEAB1u-GnuzOzT5sRVQMMQqJu",
+      "conversationIndex": "AQHbrc+8dbvxp7szs0+bEVUDDEKibg==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFXgAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div><style>\r\n<!--\r\nbody\r\n\t{height:100%!important;\r\n\tmargin:0!important;\r\n\tpadding:0!important;\r\n\twidth:100%!important;\r\n\tfont-family:Segoe UI,Helvetica,Arial,sans-serif}\r\n.followus\r\n\t{margin:0px;\r\n\ttext-align:center;\r\n\tline-height:normal;\r\n\ttext-align:left;\r\n\tcolor:black;\r\n\tfont-size:8pt;\r\n\tpadding:0px 40px 0px 40px}\r\n.mainText\r\n\t{padding-top:10px;\r\n\tpadding-left:40px;\r\n\tpadding-right:40px;\r\n\tfont-size:14px}\r\n.mainTextHeader\r\n\t{font-size:28px}\r\n.footer\r\n\t{background:#f0f0f0;\r\n\tborder:0;\r\n\tpadding:10px 0px 10px 20px;\r\n\tmin-height:60px}\r\n.header\r\n\t{background:#0078d4;\r\n\tborder:0;\r\n\tpadding:8px 20px 8px 20px;\r\n\twidth:100%;\r\n\tmin-height:60px;\r\n\tcolor:#ffffff;\r\n\tfont-size:22px;\r\n\tfont-weight:400}\r\n.header-title\r\n\t{color:#ffffff;\r\n\tfont-size:22px}\r\n.microsoft365-blue-background\r\n\t{background:#0078d4}\r\n-->\r\n</style><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\" role=\"presentation\"><tbody><tr><td class=\"microsoft365-blue-background\" valign=\"top\" style=\"vertical-align:top\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td class=\"mobile-side-padding-20 microsoft365-blue-background\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#ffffff; padding-top:10px; padding-left:50px; padding-right:50px; text-align:center; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#ffffff; text-align:center; letter-spacing:-0.01em\">Microsoft 365 Developer Program | <a href=\"https://developer.microsoft.com/en-us/office/profile\" style=\"color:#ffffff; text-decoration:underline\"><strong style=\"font-weight:normal; color:#ffffff; text-decoration:underline\">Access your profile</strong> </a></p></td></tr></tbody></table></td></tr><tr><td align=\"left\" class=\"microsoft365-blue-background\" valign=\"top\" style=\"vertical-align:top\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"left\" class=\"microsoft365-blue-background\" style=\"padding-top:10px; padding-bottom:14px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"left\" class=\"microsoft365-blue-background\" style=\"padding-left:20px\"><img alt=\"Microsoft\" src=\"https://cdn.graph.office.net/prod/media/shared/Microsoft_Logo_White.png?v={1/image}\" width=\"99\" align=\"left\" class=\"mobile-width-85\" style=\"display:block; outline:none; border:none\"></td></tr></tbody></table></td><td valign=\"top\" align=\"right\" class=\"microsoft365-blue-background\" style=\"padding-top:4px; padding-bottom:14px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td valign=\"top\" align=\"right\" class=\"microsoft365-blue-background\" style=\"padding-right:20px\"><div><div class=\"header-title microsoft365-blue-background\" align=\"right\">Microsoft 365 Developer Program</div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div class=\"mainText\"><p class=\"MsoNormal\">We received your request to delete your Microsoft 365 Developer Program profile and membership. This message confirms that we have deleted your information.</p><p class=\"MsoNormal\">Membership in the program is a requirement for access to Microsoft 365 developer subscriptions. Your subscription or subscriptions are now set to expire.</p><p class=\"MsoNormal\">You are welcome to rejoin our community at any time. When you rejoin, you can request a new Microsoft 365 trial developer subscription sixty (60) days after the date on which your subscription was deleted.</p><p class=\"MsoNormal\">Thank you for your membership in the Microsoft 365 Developer Program.</p><p class=\"MsoNormal\">The Microsoft 365 Developer Program Team</p></div><div><p class=\"followus\">&nbsp;&nbsp;&nbsp;</p><p class=\"followus\"><span>Follow us on Twitter </span><a href=\"https://twitter.com/Microsoft365Dev\"><span>@Microsoft365Dev</span></a><span> and on </span><span><a href=\"https://www.facebook.com/Microsoft365Dev/\">Facebook</a></span></p><p class=\"followus\">Find reference solutions and code samples on <a href=\"https://github.com/OfficeDev/\">Github</a><span>. Ask questions on <a href=\"https://stackoverflow.com/\">Stack Overflow</a></span>.</p><p class=\"followus\">&nbsp;</p></div><div class=\"footer\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\" role=\"presentation\"><tbody><tr><td bgcolor=\"#f0f0f0\" valign=\"top\" style=\"vertical-align:top; padding-top:10px\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td align=\"left\" bgcolor=\"#f0f0f0\" style=\"padding-top:20px; padding-bottom:20px; padding-left:20px\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\"><tbody><tr><td align=\"left\" bgcolor=\"#f0f0f0\"><img alt=\"Microsoft\" src=\"https://cdn.graph.office.net/prod/media/shared/microsoft-logo.png\" width=\"99\" style=\"display:block; outline:none; border:none\"></td></tr></tbody></table></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:0px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">This email was sent from an unmonitored mailbox. </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:18px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">You are receiving this email because you have subscribed to Microsoft 365. </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:0px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\"><a target=\"_blank\" href=\"https://go.microsoft.com/fwlink/?LinkId=521839\" style=\"text-decoration:underline\"><strong style=\"font-weight:normal; color:#6b6b6c; text-decoration:underline\">Privacy Statement</strong></a> </p></td></tr><tr><td bgcolor=\"#f0f0f0\" align=\"left\" class=\"mobile-side-padding-20\" style=\"font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; padding-top:18px; padding-left:20px; padding-right:20px; text-align:left; letter-spacing:-0.01em\"><p style=\"margin:0; padding:0; font-family:'Segoe UI',SUWR,Verdana,sans-serif; font-size:10px; line-height:14px; color:#6b6b6b; letter-spacing:-0.01em\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052 USA </p></td></tr></tbody></table><p>&nbsp;</p></td></tr></tbody></table></div><img src=\"https://mucp.api.account.microsoft.com/m/v2/v?d=AIAAC2J75YYTPFAYVSLIAJYAO6NZLMC262ZNS6X7E5ZL3XQSQKDFY7FNEBBCCQHGKW4AO4XLMIXQRENLJ3R2XABXEFYE2FUVDFF76VF7GAO2EN3A3L2KUGDRM67QSQT4NWMKE4VEZKBDB2RRS53UI2I54WF5EHA&amp;i=AIAADL7P2WNL3VW7LBEX5MC3BRYZJDSJCVNYUCYVVDQHPITXLE72JGIVP3UBRIY7AOP2VGNZRBAHP4BY3PWUAQGFB6GUNV2VSXRC4KK5RHTOC366JFY2T7IJ32JPVOGCYHXAD7R6I7DIUAWFWGP3TSB7ZEIHPE3KMONYMIR6544CNM7LH7VOEPWDHHHELTPM7C3GBLYKSXE7HU25ISFNKQSQ3M3IS2OQPHSYRTHQC6KURCREPNKJV6GDAPJVTNOMML46VLEVFREO2CWHTPG4UQKMS22EWMY\" width=\"1\" height=\"1\" tabindex=\"-1\" aria-hidden=\"true\" alt=\"\"></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Microsoft 365 Developer Program",
+          "address": "m365dev@microsoft.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Microsoft 365 Developer Program",
+          "address": "m365dev@microsoft.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "test.acc.2@outlook.com",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAcK\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBCQAAABLo_1QpixVNoonigVW8x5cAAALAogAAAA==",
+      "createdDateTime": "2025-04-15T05:52:50Z",
+      "lastModifiedDateTime": "2025-04-15T05:52:54Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAcK",
+      "categories": [],
+      "receivedDateTime": "2025-04-15T05:52:53Z",
+      "sentDateTime": "2025-04-15T05:52:52Z",
+      "hasAttachments": false,
+      "internetMessageId": "<DB9PR04MB80735BA4D645773447E0FA7F99B22@DB9PR04MB8073.eurprd04.prod.outlook.com>",
+      "subject": "Meet for lunch?",
+      "bodyPreview": "The new cafeteria is open.",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBCQAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEAA4cU-s5_45Soz9H2qjXJkx",
+      "conversationIndex": "AQHbrcqgOHFP7OfuOUqM/R9qo1yZMQ==",
+      "isDeliveryReceiptRequested": false,
+      "isReadReceiptRequested": false,
+      "isRead": true,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBCQAAABLo%2B1QpixVNoonigVW8x5cAAALAogAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "text",
+        "content": "The new cafeteria is open."
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "CsInfocomm Test",
+          "address": "test.acc.2@outlook.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "CsInfocomm Test",
+          "address": "test.acc.2@outlook.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "garthf@contoso.com",
+            "address": "garthf@contoso.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAb1\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFWwAAAA==",
+      "createdDateTime": "2025-04-15T05:52:38Z",
+      "lastModifiedDateTime": "2025-04-15T05:52:39Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAAb1",
+      "categories": [],
+      "receivedDateTime": "2025-04-15T05:52:39Z",
+      "sentDateTime": "2025-04-15T05:52:34Z",
+      "hasAttachments": false,
+      "internetMessageId": "<130NPGNQWPU4.2BGKGSLY353S@bl02epf00024f2e>",
+      "subject": "New app(s) connected to your Microsoft account",
+      "bodyPreview": "Microsoft account\r\nNew app(s) have access to your data\r\nGraph Explorer connected to the Microsoft account te**2@outlook.com.\r\nIf you didn't grant this access, please remove the app(s) from your account.\r\nManage your apps\r\nYou can also opt out or change wh",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEADagFZzyXs2SJa0sqxvLkBz",
+      "conversationIndex": "AQHbrcqY2oBWc8l7NkiWtLKsby5Acw==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFWwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html dir=\"ltr\"><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\">\r\n<!--\r\n-->\r\n</style></head><body><table dir=\"ltr\"><tbody><tr><td id=\"i1\" style=\"padding:0; font-family:'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:17px; color:#707070\">Microsoft account</td></tr><tr><td id=\"i2\" style=\"padding:0; font-family:'Segoe UI Light','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:41px; color:#2672ec\">New app(s) have access to your data</td></tr><tr><td id=\"i3\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">Graph Explorer connected to the Microsoft account <a dir=\"ltr\" id=\"iAccount\" class=\"link\" href=\"mailto:te**2@outlook.com\" style=\"color:#2672ec; text-decoration:none\">te**2@outlook.com</a>.</td></tr><tr><td id=\"i4\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">If you didn't grant this access, please remove the app(s) from your account.</td></tr><tr><td style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\"><table border=\"0\" cellspacing=\"0\"><tbody><tr><td bgcolor=\"#2672ec\" style=\"background-color:#2672ec; padding-top:5px; padding-right:20px; padding-bottom:5px; padding-left:20px; min-width:50px\"><a id=\"i5\" href=\"https://account.live.com/consent/Manage?fn=email\" style=\"font-family:'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size:14px; text-align:center; text-decoration:none; font-weight:600; letter-spacing:0.02em; color:#fff\">Manage your apps</a></td></tr></tbody></table></td></tr><tr><td id=\"i6\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">You can also <a id=\"iLink3\" class=\"link\" href=\"https://account.live.com/SecurityNotifications/Update\" style=\"color:#2672ec; text-decoration:none\">opt out</a> or change where you receive security notifications.</td></tr><tr><td id=\"i7\" style=\"padding:0; padding-top:25px; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">Thanks,</td></tr><tr><td id=\"i8\" style=\"padding:0; font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size:14px; color:#2a2a2a\">The Microsoft account team</td></tr></tbody></table><div lang=\"en\" style=\"margin-top:20px; margin-bottom:10px\"><a class=\"link\" href=\"https://go.microsoft.com/fwlink/?LinkId=521839\">Privacy Statement</a><div style=\"margin-top:10px\">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052</div></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Microsoft account team",
+          "address": "account-security-noreply@accountprotection.microsoft.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Microsoft account team",
+          "address": "account-security-noreply@accountprotection.microsoft.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "test.acc.2@outlook.com",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    {
+      "@odata.etag": "W/\"CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAASC\"",
+      "id": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA_PvvbQYdXdJnPPtqc5wOZ8HABLo_1QpixVNoonigVW8x5cAAAIBDAAAABLo_1QpixVNoonigVW8x5cAAAIFVAAAAA==",
+      "createdDateTime": "2025-04-15T05:32:47Z",
+      "lastModifiedDateTime": "2025-04-15T05:32:48Z",
+      "changeKey": "CQAAABYAAAAS6PtUKYsVTaKJ4oFVvMeXAAAAAASC",
+      "categories": [],
+      "receivedDateTime": "2025-04-15T05:32:48Z",
+      "sentDateTime": "2025-04-15T05:32:48Z",
+      "hasAttachments": false,
+      "internetMessageId": "<DB9PR04MB807303CAB8E5D97F07F8ED7C99B22@DB9PR04MB8073.eurprd04.prod.outlook.com>",
+      "subject": "Welcome to your new Outlook.com account",
+      "bodyPreview": "Hi\r\nWelcome to your Outlook! We're the email service designed to help you conquer your day. Connect, organize, and get things done for free across your devices.\r\n\r\n\r\nGet the free Outlook mobile app\r\nThe Outlook apps for iOS and Android are free. They make",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoALgAAA_PvvbQYdXdJnPPtqc5wOZ8BABLo_1QpixVNoonigVW8x5cAAAIBDAAAAA==",
+      "conversationId": "AQQkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoAEAALiLpue2PHT5HaNvFa4Gjw",
+      "conversationIndex": "AQHbrcfSC4i6bntjx0+R2jbxWuBo8A==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATM0MDAAMi04Y2FkLTc0YWEALTAwAi0wMAoARgAAA%2BPvvbQYdXdJnPPtqc5wOZ8HABLo%2B1QpixVNoonigVW8x5cAAAIBDAAAABLo%2B1QpixVNoonigVW8x5cAAAIFVAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Word.Document\"><meta name=\"viewport\" content=\"width=device-width\"><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"wf_segoe-ui_normal\"}\r\n@font-face\r\n\t{font-family:\"wf_segoe-ui_semilight\"}\r\n-->\r\n</style><style>\r\n<!--\r\ntable\r\n\t{border-collapse:collapse}\r\n.header-font\r\n\t{font-family:'Segoe UI Variable','Segoe UI ',Arial,Helvetica;\r\n\ttext-align:center;\r\n\tcolor:#11100F}\r\n.section-table-img\r\n\t{text-align:center;\r\n\tpadding:0px 28px 0px 64px;\r\n\twidth:128px}\r\n.section-table-column\r\n\t{padding:20px 64px 20px 0px;\r\n\ttext-align:left}\r\n.section-header\r\n\t{font-size:20px;\r\n\tfont-weight:600;\r\n\tline-height:27px;\r\n\tpadding-bottom:10px}\r\n.section-text\r\n\t{width:100%;\r\n\tfont-size:16px;\r\n\tfont-weight:400;\r\n\tline-height:21px;\r\n\tpadding-bottom:10px}\r\n.section-link\r\n\t{font-size:16px;\r\n\tfont-weight:400;\r\n\tline-height:21px;\r\n\tcolor:#0078D7;\r\n\ttext-decoration:none;\r\n\tpadding-right:12px}\r\n.section-img\r\n\t{width:128px;\r\n\tmax-width:128px}\r\n.app-img\r\n\t{text-align:center;\r\n\twidth:83px;\r\n\theight:27px}\r\n.mslogo\r\n\t{margin-top:20px;\r\n\twidth:114px;\r\n\theight:25px}\r\n-->\r\n</style></head><body bgcolor=\"#F1F1F1\"><center><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" bgcolor=\"#F1F1F1\" style=\"width:640px; border-collapse:collapse\"><tbody><tr role=\"presentation\" style=\"height:5px\"></tr><tr role=\"presentation\"><td role=\"presentation\" colspan=\"2\" style=\"height:52px; text-align:center\"><img class=\"mslogo\" src=\"cid:microsoft-logo\" alt=\"Microsoft\"> </td></tr><tr role=\"presentation\" class=\"header-font\" style=\"\"><td role=\"presentation\" colspan=\"2\" style=\"padding:0px 0px 0px 28px; text-align:left\"><table style=\"width:100%\"><tbody><tr role=\"presentation\" class=\"header-font\"><td role=\"presentation\" style=\"padding:0px 0px 0px 36px; text-align:left; width:270px\"><div style=\"font-size:40px; font-weight:600; line-height:53px\">Hi </div><div style=\"font-size:16px; font-weight:400; line-height:21px\">Welcome to your Outlook! We're the email service designed to help you conquer your day. Connect, organize, and get things done for free across your devices. </div></td><td role=\"presentation\" style=\"text-align:center\"><a href=\"https://go.microsoft.com/fwlink/?linkid=2243825\"><img width=\"320\" src=\"cid:wm-hero\" alt=\"\" role=\"presentation\" style=\"width:320px; max-width:320px\"></a> </td></tr></tbody></table></td></tr><tr role=\"presentation\" class=\"header-font\"><td colspan=\"2\"><table style=\"border-radius:20px; background-color:white; margin:0px 16px 20px 16px; width:95%; box-shadow:0px 4px 4px rgba(0,0,0,0.1)\"><tbody><tr><td role=\"presentation\" style=\"font-size:20px; font-weight:600; line-height:27px; padding:32px 28px 32px 48px; width:123px; vertical-align:middle\"><img class=\"section-img\" src=\"cid:wm-qrcode\" alt=\"\" role=\"presentation\"> </td><td role=\"presentation\" style=\"padding:32px 36px 10px 0px; text-align:left; width:358px; vertical-align:middle\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse\"><tbody><tr role=\"presentation\"><td role=\"presentation\" class=\"section-header\">Get the free Outlook mobile app </td></tr><tr role=\"presentation\"><td role=\"presentation\" class=\"section-text\">The Outlook apps for iOS and Android are free. They make using your various email accounts and calendars simple and consistent! </td></tr><tr role=\"presentation\"><td role=\"presentation\" style=\"text-align:left\"><a href=\"https://go.microsoft.com/fwlink/?linkid=2243826\" style=\"padding-right:12px\"><img class=\"app-img\" src=\"cid:wm-apple-store\" alt=\"Download on the App Store\"></a> <a href=\"https://go.microsoft.com/fwlink/?linkid=2243633\"><img class=\"app-img\" src=\"cid:wm-google-store\" alt=\"Get it on Google Play\"></a> </td></tr></tbody></table></td></tr></tbody></table></td></tr><tr role=\"presentation\" class=\"header-font\"><td role=\"presentation\" class=\"section-table-img\"><a href=\"https://go.microsoft.com/fwlink/?linkid=2243723\"><img class=\"section-img\" src=\"cid:wm-m365\" alt=\"\" role=\"presentation\"></a> </td><td role=\"presentation\" class=\"section-table-column\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse\"><tbody><tr role=\"presentation\"><td role=\"presentation\" class=\"section-header\">Use Word, Excel, PowerPoint, and OneDrive for free on the web </td></tr><tr role=\"presentation\"><td role=\"presentation\" class=\"section-text\">Do more with Microsoft 365 for free on the web right from within Outlook using your new Microsoft Account. Save all your important photos, videos, and documents in OneDrive with free storage. </td></tr><tr role=\"presentation\"><td role=\"presentation\"><a class=\"section-link\" href=\"https://go.microsoft.com/fwlink/?linkid=2243723\">Use Microsoft 365 for free</a> </td></tr></tbody></table></td></tr><tr role=\"presentation\" class=\"header-font\"><td role=\"presentation\" class=\"section-table-img\"><img class=\"section-img\" src=\"cid:wm-emailwriting\" alt=\"\" role=\"presentation\"> </td><td role=\"presentation\" class=\"section-table-column\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse\"><tbody><tr role=\"presentation\"><td role=\"presentation\" class=\"section-header\">Write better emails </td></tr><tr role=\"presentation\"><td role=\"presentation\" class=\"section-text\">Use the advanced AI of Microsoft Editor, built into all of Outlook, to get suggestions as you type for impactful, clear, and mistake-free messages. </td></tr></tbody></table></td></tr><tr role=\"presentation\" class=\"header-font\"><td role=\"presentation\" class=\"section-table-img\"><img class=\"section-img\" src=\"cid:wm-personalize\" alt=\"\" role=\"presentation\"> </td><td role=\"presentation\" class=\"section-table-column\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse\"><tbody><tr role=\"presentation\"><td role=\"presentation\" class=\"section-header\" colspan=\"2\">Personalize Outlook for your style </td></tr><tr role=\"presentation\"><td role=\"presentation\" class=\"section-text\" colspan=\"2\">Choose a unique theme, use Outlook in Dark Mode, and create the ideal layout to have your inbox look and act how you want. </td></tr><tr role=\"presentation\"><td role=\"presentation\"><a class=\"section-link\" href=\"https://go.microsoft.com/fwlink/?linkid=2243448\">Pick a theme</a> <a class=\"section-link\" href=\"https://go.microsoft.com/fwlink/?linkid=2243827\">Change your inbox layout</a> </td></tr></tbody></table></td></tr><tr role=\"presentation\" class=\"header-font\"><td role=\"presentation\" class=\"section-table-img\"><a href=\"https://go.microsoft.com/fwlink/?linkid=2243449\"><img class=\"section-img\" src=\"cid:wm-calendar\" alt=\"\" role=\"presentation\"></a> </td><td role=\"presentation\" class=\"section-table-column\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse\"><tbody><tr role=\"presentation\"><td role=\"presentation\" class=\"section-header\">Use your email and calendar together in one place </td></tr><tr role=\"presentation\"><td role=\"presentation\" class=\"section-text\">Outlook's built-in calendar and to-do list keeps track of appointments and events to help you have the time to prioritize people and life's precious events – even create a shared family calendar. </td></tr><tr role=\"presentation\"><td role=\"presentation\"><a class=\"section-link\" href=\"https://go.microsoft.com/fwlink/?linkid=2243449\">Visit calendar</a> </td></tr></tbody></table></td></tr><tr role=\"presentation\" class=\"header-font\"><td role=\"presentation\" class=\"section-table-img\"><a href=\"https://go.microsoft.com/fwlink/?linkid=2243634\"><img class=\"section-img\" src=\"cid:wm-search\" alt=\"\" role=\"presentation\"></a> </td><td role=\"presentation\" class=\"section-table-column\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse\"><tbody><tr role=\"presentation\"><td role=\"presentation\" class=\"section-header\">Find what you need when you need it </td></tr><tr role=\"presentation\"><td role=\"presentation\" class=\"section-text\">Universal search in Outlook helps you find any message, contact, or document fast. Use folders, pin or flag emails, and archive to help you stay organized – even sweep away and block mail from unwanted senders forever. </td></tr><tr role=\"presentation\"><td role=\"presentation\"><a class=\"section-link\" href=\"https://go.microsoft.com/fwlink/?linkid=2243634\">Customize quick actions to stay organized</a> </td></tr></tbody></table></td></tr><tr role=\"presentation\" class=\"header-font\"><td role=\"presentation\" class=\"section-table-img\"><a href=\"https://go.microsoft.com/fwlink/?linkid=2243828\"><img class=\"section-img\" src=\"cid:wm-security\" alt=\"\" role=\"presentation\"></a> </td><td role=\"presentation\" class=\"section-table-column\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse\"><tbody><tr role=\"presentation\"><td role=\"presentation\" class=\"section-header\">Backed by enterprise-grade security </td></tr><tr role=\"presentation\"><td role=\"presentation\" class=\"section-text\">Trust in Microsoft's security to help keep emails, documents, and treasured memories safe from phishing and scams. Outlook works around the clock to help protect your data. </td></tr><tr role=\"presentation\"><td role=\"presentation\"><a class=\"section-link\" href=\"https://go.microsoft.com/fwlink/?linkid=2243828\">Stay protected</a> </td></tr></tbody></table></td></tr><tr role=\"presentation\"><td role=\"presentation\" colspan=\"2\" style=\"padding-top:40px; text-align:center; color:#797775; font-size:14px; font-weight:400; line-height:19px; font-family:'Segoe UI Variable','Segoe UI ',Arial,Helvetica; padding-left:30px\"><table role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse; margin-top:15px; width:100%\"><tbody><tr role=\"presentation\" style=\"padding-bottom:10px\"><td role=\"presentation\" style=\"padding-bottom:10px\"><a href=\"http://go.microsoft.com/fwlink/?LinkId=521839\" style=\"color:#5a5a5a\">Privacy Statement</a> </td></tr><tr role=\"presentation\"><td role=\"presentation\" style=\"padding-bottom:20px\"><img class=\"mslogo\" src=\"cid:microsoft-logo\" alt=\"Microsoft\"> </td></tr><tr role=\"presentation\"><td role=\"presentation\">Microsoft Corporation • One Microsoft Way • Redmond, WA 98052 </td></tr><tr role=\"presentation\" style=\"padding-bottom:10px\"><td role=\"presentation\" style=\"padding-bottom:10px\">You are receiving this welcome notification because you created an Outlook.com account &nbsp; </td></tr><tr role=\"presentation\"><td role=\"presentation\"><img src=\"https://go.microsoft.com/fwlink/?linkid=2243342\" style=\"visibility:hidden\"> </td></tr></tbody></table></td></tr></tbody></table></center></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Outlook Team",
+          "address": "no-reply@microsoft.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Outlook Team",
+          "address": "no-reply@microsoft.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "CsInfocomm Test",
+            "address": "test.acc.2@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    }
+  ]
+}
