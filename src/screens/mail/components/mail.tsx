@@ -4,20 +4,19 @@ import { Search } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { ResizableHandle, ResizablePanel } from "@/components/ui/resizable";
 import { Separator } from "@/components/ui/separator";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { MailDisplay } from "./mail-display";
+import { Tabs } from "@/components/ui/tabs";
+import { ConversationDisplay } from "./conv-display";
 import { MailList } from "./mail-list";
 import { type Mail } from "../data";
-import { mailsAtom, useMails, useSelectedMail } from "../use-mail";
-import { EmailInteraction } from "@/types/EmailInteracion.type";
-import { atom } from "jotai";
+import { useConversation } from "../use-convo";
 
 interface MailProps {
   defaultLayout: number[] | undefined;
 }
 
 export function Mail({ defaultLayout = [20, 32, 48] }: MailProps) {
-  const [mailsState] = useMails();
+  const [selectedConversation] = useConversation();
+
   return (
     <>
       <ResizableHandle withHandle />
@@ -59,14 +58,16 @@ export function Mail({ defaultLayout = [20, 32, 48] }: MailProps) {
           <TabsContent value="unread" className="m-0">
             <MailList items={mails.filter((item) => !item.read)} />
           </TabsContent> */}
-          <MailList items={mailsState.mails} />
+          <MailList />
         </Tabs>
       </ResizablePanel>
       <ResizableHandle withHandle />
       <ResizablePanel defaultSize={defaultLayout[2]} minSize={30}>
-        {/* <MailDisplay
-          mail={mails.find((item) => item.id === mail.selected) || null}
-        /> */}
+        {selectedConversation.id && selectedConversation.conversationId && (
+          <ConversationDisplay
+            conversationId={selectedConversation.conversationId}
+          />
+        )}
       </ResizablePanel>
     </>
   );

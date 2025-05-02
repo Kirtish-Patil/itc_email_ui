@@ -1,9 +1,6 @@
 import { Toggle } from "@/components/ui/toggle";
 import { ToggleGroup } from "@/components/ui/toggle-group";
 import { useCurrentEditor } from "@tiptap/react";
-import StarterKit from "@tiptap/starter-kit";
-import Highlight from "@tiptap/extension-highlight";
-import TextAlign from "@tiptap/extension-text-align";
 
 import {
   AlignCenter,
@@ -24,12 +21,7 @@ import {
   Undo,
 } from "lucide-react";
 import { useMemo } from "react";
-// import { getToggleButtons } from "./data";
-import {
-  Tooltip,
-  TooltipProvider,
-  TooltipTrigger,
-} from "@/components/ui/tooltip";
+import { Tooltip, TooltipTrigger } from "@/components/ui/tooltip";
 import { TooltipContent } from "@radix-ui/react-tooltip";
 import TablePicker from "./TablePicker";
 import {
@@ -225,7 +217,10 @@ const MenuBar = () => {
             <Grid className="h-4 w-4" />
           </Toggle>
         </HoverCardTrigger>
-        <HoverCardContent className="bg-white border shadow-md rounded p-2 w-fit" side="bottom">
+        <HoverCardContent
+          className="bg-white border shadow-md rounded p-2 w-fit"
+          side="bottom"
+        >
           <TablePicker />
         </HoverCardContent>
       </HoverCard>

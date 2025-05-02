@@ -1,7 +1,10 @@
-import { atom, createStore, Provider, useAtom, useSetAtom } from "jotai";
-import { mailsAtom, mailsQueryAtom, MailsState } from "./use-mail";
-import { ReactNode, useEffect } from "react";
-import { Key } from "lucide-react";
+import { atom, useSetAtom } from "jotai";
+import { mailsAtom, MailsState } from "./use-mail";
+import { ReactNode, useEffect, useState } from "react";
+import { useQuery } from "@tanstack/react-query";
+import { EmailInteraction } from "@/types/EmailInteracion.type";
+import axios from "axios";
+import { GenericApiResponse } from "@/types/GenericApiResponse.type";
 
 const setMailsPropAtom = atom(
   null,
@@ -15,10 +18,21 @@ const setMailsPropAtom = atom(
   }
 );
 
+const fetchInteractions = async (pageParam: number) => {
+  const { data } = await axios.get(
+    `https://localhost:44374/api/v1/EmailInteraction/getInteractions?pageNo=${pageParam}&recPerPage=10`
+  );
+  return data;
+};
+
 const MailsProvider = ({ children }: { children: ReactNode }) => {
-  const [
-    { data, isSuccess, error, isFetched, isLoading, isError, isFetching },
-  ] = useAtom(mailsQueryAtom);
+  const [pageNo] = useState(1);
+  const { data, isSuccess, error, isFetched, isLoading, isError, isFetching } =
+    useQuery<GenericApiResponse<EmailInteraction[]>>({
+      queryKey: ["mails"],
+      queryFn: async () => await fetchInteractions(pageNo),
+    });
+
   const setMailsProp = useSetAtom(setMailsPropAtom);
 
   useEffect(() => {
@@ -26,11 +40,10 @@ const MailsProvider = ({ children }: { children: ReactNode }) => {
   }, [isError]);
 
   useEffect(() => {
+    console.log("isSuccess changed");
     setMailsProp({ key: "isSuccess", value: isSuccess });
     if (isSuccess) {
       setMailsProp({ key: "mails", value: data.data });
-    } else {
-      setMailsProp({ key: "mails", value: [] });
     }
   }, [isSuccess]);
 

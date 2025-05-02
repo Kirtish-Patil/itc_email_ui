@@ -8,8 +8,8 @@ const maxCols = 10;
 const TablePicker = () => {
   const [hoveredRow, setHoveredRow] = useState(0);
   const [hoveredCol, setHoveredCol] = useState(0);
-  const [selectedSize, setSelectedSize] = useState({ rows: 0, cols: 0 });
-  const [showgrid, setShowGrid] = useState<boolean>(false);
+  const [_, setSelectedSize] = useState({ rows: 0, cols: 0 });
+  const [_showgrid, setShowGrid] = useState<boolean>(false);
   const { editor } = useCurrentEditor();
 
   const handleMouseOver = (row: number, col: number) => {

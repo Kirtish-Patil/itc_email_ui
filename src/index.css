@@ -109,6 +109,17 @@
   --sidebar-ring: oklch(0.488 0.243 264.376);
 }
 
+.email-body * {
+  all: revert;
+  color-scheme: light;
+}
+
+.email-body {
+  /* background-color: white; */
+  all: revert;
+  color-scheme: light;
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;

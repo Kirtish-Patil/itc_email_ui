@@ -1,15 +1,7 @@
 import React from "react";
 import { ResizablePanel } from "../ui/resizable";
 import { Nav } from "./nav";
-import {
-  Archive,
-  ArchiveX,
-  File,
-  Inbox,
-  Send,
-  Trash2,
-  UsersRound,
-} from "lucide-react";
+import { File, Inbox, Send } from "lucide-react";
 import { Separator } from "../ui/separator";
 import { cn } from "@/lib/utils";
 import { AccountSwitcher } from "./account-switcher";

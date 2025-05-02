@@ -2,7 +2,6 @@ import { useEffect } from "react";
 import { Mail } from "./components/mail";
 import { useCookies } from "react-cookie";
 import { useCurrentItem } from "@/store/activePage";
-import MailsProvider from "./MailProvider";
 
 export default function MailPage({ type }: { type: string }) {
   const [cookies] = useCookies();
@@ -15,9 +14,5 @@ export default function MailPage({ type }: { type: string }) {
     setCurrentItem(type);
   }, []);
 
-  return (
-    <MailsProvider>
-      <Mail defaultLayout={defaultLayout} />
-    </MailsProvider>
-  );
+  return <Mail defaultLayout={defaultLayout} />;
 }

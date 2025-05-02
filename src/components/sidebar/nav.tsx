@@ -3,7 +3,7 @@
 import { LucideIcon } from "lucide-react";
 
 import { cn } from "@/lib/utils";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { Button } from "@/components/ui/button";
 import {
   Tooltip,
   TooltipContent,
@@ -68,15 +68,7 @@ export function Nav({ links, isCollapsed }: NavProps) {
               <link.icon className="mr-2 h-4 w-4" />
               {link.title}
               {link.label && (
-                <span
-                  className={cn(
-                    "ml-auto",
-                    link.variant === "default" &&
-                      "text-background dark:text-white"
-                  )}
-                >
-                  {link.label}
-                </span>
+                <span className={cn("ml-auto")}>{link.label}</span>
               )}
             </Button>
           )

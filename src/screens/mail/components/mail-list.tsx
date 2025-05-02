@@ -1,37 +1,32 @@
-import { ComponentProps, useEffect, useState } from "react";
+import {
+  ComponentProps,
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+} from "react";
 import { formatDistanceToNow } from "date-fns";
 import { cn } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { mailsAtom, useSelectedMail } from "../use-mail";
-import { EmailInteraction } from "@/types/EmailInteracion.type";
-import parse from "html-react-parser";
+import { mailsAtom, useMails } from "../use-mail";
 import { atom, useSetAtom } from "jotai";
-
-interface MailListProps {
-  items: EmailInteraction[];
-}
+import { useConversation } from "../use-convo";
+import { Spinner } from "@/components/ui/spinner";
 
 const setReadStateAtom = atom(
   null,
   (_, set, update: { id: number; mailIdx: number }) => {
     set(mailsAtom, (mailsState) => {
-      // const mailsUpdated = mailsState.mails.map((mail) => {
-      //   if (mail.id === update.id) {
-      //     mail.emailInteractionDetails.isRead = true;
-      //     return mail;
-      //   } else {
-      //     return mail;
-      //   }
-      // });
       mailsState.mails[update.mailIdx].emailInteractionDetails.isRead = true;
       return mailsState;
     });
   }
 );
 
-export function MailList({ items }: MailListProps) {
-  const [mail, setMail] = useSelectedMail();
+export function MailList() {
+  const [selectedMail, setSelectedMail] = useConversation();
+  const [mailsState] = useMails();
   const setReadState = useSetAtom(setReadStateAtom);
   const [containerHeight, setContainerHeight] = useState(window.innerHeight);
 
@@ -41,20 +36,51 @@ export function MailList({ items }: MailListProps) {
     });
   });
 
+  const LoadMoreMails = async () => {
+    if (mailsState.fetchNextpage && mailsState.hasMore) {
+      mailsState.fetchNextpage();
+    }
+  };
+
+  const observer = useRef<IntersectionObserver>(null);
+  const sentinelRef = useRef(null);
+
+  const handleObserver = useCallback(
+    (entries: IntersectionObserverEntry[]) => {
+      const target = entries[0];
+      if (target.isIntersecting && mailsState.hasMore) {
+        LoadMoreMails();
+      }
+    },
+    [mailsState.hasMore]
+  );
+
+  useEffect(() => {
+    if (observer.current) observer.current.disconnect();
+
+    observer.current = new IntersectionObserver(handleObserver);
+    if (sentinelRef.current) {
+      observer.current.observe(sentinelRef.current);
+    }
+
+    return () => observer.current?.disconnect();
+  }, [handleObserver]);
+
   return (
     <ScrollArea style={{ height: containerHeight - 150 }}>
       <div className="flex flex-col gap-2 p-4 pt-0">
-        {items.map((item, idx) => (
+        {mailsState.mails.map((item, idx) => (
           <button
-            key={item.id}
+            key={idx}
             className={cn(
               "flex flex-col items-start gap-2 rounded-lg border p-3 text-left text-sm transition-all hover:bg-accent min-h-[120px]",
-              mail.selected === item.id && "bg-muted"
+              selectedMail.id === item.id && "bg-muted"
             )}
             onClick={() => {
-              setMail({
-                ...mail,
-                selected: item.id,
+              setSelectedMail({
+                ...selectedMail,
+                id: item.id,
+                conversationId: item.conversationId,
               });
               setReadState({ id: item.id, mailIdx: idx });
             }}
@@ -73,7 +99,7 @@ export function MailList({ items }: MailListProps) {
                   <div
                     className={cn(
                       "ml-auto text-xs",
-                      mail.selected === item.id
+                      selectedMail.id === item.id
                         ? "text-foreground"
                         : "text-muted-foreground"
                     )}
@@ -115,6 +141,11 @@ export function MailList({ items }: MailListProps) {
           </button>
         ))}
       </div>
+      <div ref={sentinelRef} style={{ height: 1 }} />
+      {/* <Button ref={sentinelRef} onClick={LoadMoreMails}>
+        Load More
+      </Button> */}
+      {mailsState.isFetching && <Spinner size={"large"} />}
     </ScrollArea>
   );
 }
